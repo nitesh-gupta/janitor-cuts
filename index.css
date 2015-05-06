@@ -279,4 +279,13 @@
 		.timeline.animated .timeline-row.active:nth-child(odd) .timeline-content {
 		  left: 0; } }
 
-
+h1, h2 {
+    font-family: Georgia, Times, serif;
+    font-size: 59px;
+    line-height: 70px;
+}
+ 
+p {
+    font-size: 16px;
+    line-height: 25px;
+}
